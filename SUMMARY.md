@@ -2,4 +2,5 @@
 
 * [Introduction](README.md)
 * Style
+* Components
 
