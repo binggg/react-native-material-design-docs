@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [Style](Color)
 * [Components](components.md)
-   * Button
+   * [Button](button.md)
 
