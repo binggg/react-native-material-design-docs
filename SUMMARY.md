@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Style
+* [Style](style/style.md)
 
