@@ -1,8 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Style](Color)
-   * [Color](Color)
+* [Style](Style/color.md)
 * [Components](components.md)
    * [Button](button.md)
 
