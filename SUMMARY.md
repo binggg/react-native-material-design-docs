@@ -5,5 +5,5 @@
    * [Color](style/color.md)
    * [Typography](style/typography.md)
 * [Components](components/components.md)
-   * Button
+   * [Button](components/button.md)
 
