@@ -6,5 +6,5 @@
    * [Typography](style/typography.md)
 * [Components](components/components.md)
    * [Button](components/button.md)
-   * RadioButton
+   * [RadioButton](components/radiobutton.md)
 
