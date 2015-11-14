@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Style](style/style.md)
-   * Color
+   * [Color](style/color.md)
 
