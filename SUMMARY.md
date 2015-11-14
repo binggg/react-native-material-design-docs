@@ -4,4 +4,5 @@
 * [Style](style/style.md)
    * [Color](style/color.md)
    * [Typography](style/typography.md)
+* Components
 
