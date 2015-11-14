@@ -7,5 +7,5 @@
 * [Components](components/components.md)
    * [Button](components/button.md)
    * [RadioButton](components/radiobutton.md)
-   * Checkbox
+   * [Checkbox](components/checkbox.md)
 
