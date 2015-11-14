@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Style
+* [Style](Color)
 * Components
 
