@@ -3,6 +3,12 @@ Getting Started
 
 ## Android Setup
 
+### Install [react-native-material-design-components](http://github.com/binggg/react-native-material-design-components)
+
+```bash
+npm install react-native-material-design-components --save
+```
+
 ### Install [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
 ```bash
@@ -11,7 +17,7 @@ npm install react-native-vector-icons --save
 
 ### Setting Your Project For Using [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
-react-native-material-design requires [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons), so you should set your project for using it.
+**react-native-material-design requires [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons), so you should set your project for using it.**
 
 
 * Copy the whole `Fonts` folder from `node_modules/react-native-material-design-components` to `android/app/src/main/assets`. 
