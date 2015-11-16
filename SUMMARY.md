@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Getting Started](get-started.md)
 * [Style](style/style.md)
    * [Color](style/color.md)
    * [Typography](style/typography.md)
