@@ -80,9 +80,3 @@ React Native Material Design
     ...
   }
   ```
-
-### Known issues on android
-
-* Size can only be passed as a property, not with a stylesheet
-* Icons have a fixed width causing some icons to be clipped or have whitespace. Adjust with `style={{width: xx}}` for now. 
-* Icons cannot be nested within a `Text` component.
