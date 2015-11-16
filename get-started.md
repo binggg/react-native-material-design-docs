@@ -3,6 +3,12 @@ Getting Started
 
 ## Android Setup
 
+### Install [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+
+```bash
+npm install react-native-vector-icons --save
+```
+
 ### Setting Your Project For Using [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
 react-native-material-design requires [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons), so you should set your project for using it.
