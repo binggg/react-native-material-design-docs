@@ -94,6 +94,4 @@ protected void onCreate(Bundle savedInstanceState) {
 ...
 }
 ```
-
-# Quick Start
  
